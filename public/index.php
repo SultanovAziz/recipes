@@ -5,4 +5,5 @@ require_once LIB.'/function.php';
 
 $app = new \recipes\App();
 
-dump($app::$app->getProperties());
+//dump($app::$app->getProperties());
+//throw new Exception("AFQFA",404);

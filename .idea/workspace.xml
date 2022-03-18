@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1851bd4-03ab-449f-9d44-07585d5fef46" name="Default Changelist" comment="add registry and singletone pattern">
+    <list default="true" id="f1851bd4-03ab-449f-9d44-07585d5fef46" name="Default Changelist" comment="add function dump">
+      <change afterPath="$PROJECT_DIR$/app/views/errors/error.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/init.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/params.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/params.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647602849497</updated>
-      <workItem from="1647602851367" duration="2339000" />
+      <workItem from="1647602851367" duration="2587000" />
     </task>
     <task id="LOCAL-00001" summary="add composer">
       <created>1647603450519</created>
@@ -79,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647604285675</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add function dump">
+      <created>1647605621448</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647605621448</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +107,7 @@
     <MESSAGE value="add composer" />
     <MESSAGE value="add path project" />
     <MESSAGE value="add registry and singletone pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="add registry and singletone pattern" />
+    <MESSAGE value="add function dump" />
+    <option name="LAST_COMMIT_MESSAGE" value="add function dump" />
   </component>
 </project>
