@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1851bd4-03ab-449f-9d44-07585d5fef46" name="Default Changelist" comment="delete gitignore">
-      <change afterPath="$PROJECT_DIR$/app/controllers/HomeController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/router.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/recipes/core/Router.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/errors.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/recipes/core/App.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/recipes/core/App.php" afterDir="false" />
-    </list>
+    <list default="true" id="f1851bd4-03ab-449f-9d44-07585d5fef46" name="Default Changelist" comment="add route and add HomeController" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647602849497</updated>
-      <workItem from="1647602851367" duration="3268000" />
+      <workItem from="1647602851367" duration="5124000" />
     </task>
     <task id="LOCAL-00001" summary="add composer">
       <created>1647603450519</created>
@@ -103,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647605988832</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add route and add HomeController">
+      <created>1647606660304</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1647606660304</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +138,7 @@
     <MESSAGE value="add function dump" />
     <MESSAGE value="add error handler" />
     <MESSAGE value="delete gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete gitignore" />
+    <MESSAGE value="add route and add HomeController" />
+    <option name="LAST_COMMIT_MESSAGE" value="add route and add HomeController" />
   </component>
 </project>
