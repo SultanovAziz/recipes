@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1851bd4-03ab-449f-9d44-07585d5fef46" name="Default Changelist" comment="add function dump">
-      <change afterPath="$PROJECT_DIR$/app/views/errors/error.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="f1851bd4-03ab-449f-9d44-07585d5fef46" name="Default Changelist" comment="delete gitignore">
+      <change afterPath="$PROJECT_DIR$/app/controllers/HomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/recipes/core/Router.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/errors.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/recipes/core/App.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/recipes/core/App.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647602849497</updated>
-      <workItem from="1647602851367" duration="2587000" />
+      <workItem from="1647602851367" duration="3268000" />
     </task>
     <task id="LOCAL-00001" summary="add composer">
       <created>1647603450519</created>
@@ -86,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647605621448</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add error handler">
+      <created>1647605888813</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647605888813</updated>
+    </task>
+    <task id="LOCAL-00006" summary="delete gitignore">
+      <created>1647605988831</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647605988832</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +114,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -108,6 +137,8 @@
     <MESSAGE value="add path project" />
     <MESSAGE value="add registry and singletone pattern" />
     <MESSAGE value="add function dump" />
-    <option name="LAST_COMMIT_MESSAGE" value="add function dump" />
+    <MESSAGE value="add error handler" />
+    <MESSAGE value="delete gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete gitignore" />
   </component>
 </project>
