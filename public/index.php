@@ -2,5 +2,5 @@
 
 require_once dirname(__DIR__).'/config/init.php';
 
-echo ROOT;
+new \recipes\App();
 
