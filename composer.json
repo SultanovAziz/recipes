@@ -1,0 +1,17 @@
+{
+    "name": "admin/recipes",
+    "description": "Testing task book of recipes",
+    "authors": [
+        {
+            "name": "Aziz Sultanov",
+            "email": "aziz89131983189@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app",
+            "recipes\\" : "vendor/recipes/core"
+        }
+    },
+    "require": {}
+}
