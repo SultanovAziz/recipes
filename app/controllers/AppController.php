@@ -1,1 +1,1 @@
-<?phpnamespace app\controllers;use recipes\base\Controller;class AppController extends Controller{    public function __construct($route)    {        parent::__construct($route);    }}
+<?phpnamespace app\controllers;use app\models\AppModels;use recipes\base\Controller;class AppController extends Controller{    public function __construct($route)    {        parent::__construct($route);        new AppModels();    }}

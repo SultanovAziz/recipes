@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1851bd4-03ab-449f-9d44-07585d5fef46" name="Default Changelist" comment="add base controller">
-      <change afterPath="$PROJECT_DIR$/app/views/Home/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layout/default.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/recipes/core/base/View.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/recipes/core/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/recipes/core/Router.php" afterDir="false" />
+    <list default="true" id="f1851bd4-03ab-449f-9d44-07585d5fef46" name="Default Changelist" comment="add base view">
+      <change afterPath="$PROJECT_DIR$/app/models/AppModels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/db_config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/recipes/core/Db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/recipes/core/base/Model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/AppController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/AppController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/errors.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647602849497</updated>
-      <workItem from="1647602851367" duration="5435000" />
+      <workItem from="1647602851367" duration="6292000" />
     </task>
     <task id="LOCAL-00001" summary="add composer">
       <created>1647603450519</created>
@@ -114,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647612106915</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add base view">
+      <created>1647612552160</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1647612552160</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +170,7 @@
     <MESSAGE value="delete gitignore" />
     <MESSAGE value="add route and add HomeController" />
     <MESSAGE value="add base controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="add base controller" />
+    <MESSAGE value="add base view" />
+    <option name="LAST_COMMIT_MESSAGE" value="add base view" />
   </component>
 </project>

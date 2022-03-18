@@ -13,5 +13,7 @@
             "recipes\\" : "vendor/recipes/core"
         }
     },
-    "require": {}
+    "require": {
+        "gabordemooij/redbean": "dev-master"
+    }
 }

@@ -1,0 +1,1 @@
+<?phpnamespace recipes\base;use recipes\Db;abstract class Model{    public $attr;    public $error;    public function __construct()    {        Db::instance();    }}

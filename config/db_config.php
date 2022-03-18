@@ -1,0 +1,1 @@
+<?phpreturn [    'dsn' => 'mysql:host=localhost;dbname=recipes;charset=utf8',    'user' => 'root',    'pass' => '',];

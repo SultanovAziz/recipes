@@ -1,0 +1,1 @@
+<?phpnamespace recipes;class Db{    use TSingletone;    public function __construct()    {        $db = require_once CONF.'/db_config.php';        class_alias('\RedBeanPHP\R','\R');        \R::setup($db['dsn'], $db['user'], $db['pass']);        if( !\R::testConnection() ){            throw new \Exception("Нет соединения с БД", 500);        }    }}
