@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1851bd4-03ab-449f-9d44-07585d5fef46" name="Default Changelist" comment="add default layout,jquery and bootstrap">
+    <list default="true" id="f1851bd4-03ab-449f-9d44-07585d5fef46" name="Default Changelist" comment="add reload category">
       <change afterPath="$PROJECT_DIR$/app/controllers/CategoryController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/RecipeController.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/views/Recipe/show.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/stl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logo-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/recipe/img-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/recipe/img-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/recipe/img-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/recipe/img-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/recipe/img-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/recipe/img-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/recipe/img-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js.map" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/js/jquery-1.11.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/popper.min.js.map" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/template/Recipe/RecipeTemplate.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/template/Recipe/recipe_tpl/recipe.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/recipes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/recipes.iml" afterDir="false" />
@@ -30,7 +17,7 @@
       <change beforePath="$PROJECT_DIR$/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/errors.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/js/jquery-3.2.1.slim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/jquery-3.2.1.slim.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/mail.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/recipes/core/lib/function.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/recipes/core/lib/function.php" afterDir="false" />
@@ -93,7 +80,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testing" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -122,7 +109,7 @@
       <workItem from="1647602851367" duration="6933000" />
       <workItem from="1647677771903" duration="18717000" />
       <workItem from="1647765239135" duration="1634000" />
-      <workItem from="1647767074250" duration="9337000" />
+      <workItem from="1647767074250" duration="30880000" />
     </task>
     <task id="LOCAL-00001" summary="add composer">
       <created>1647603450519</created>
@@ -208,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647679145919</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add reload category">
+      <created>1647784433522</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1647784433522</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,6 +245,7 @@
     <MESSAGE value="add base model and connect to data base" />
     <MESSAGE value="add redbean" />
     <MESSAGE value="add default layout,jquery and bootstrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="add default layout,jquery and bootstrap" />
+    <MESSAGE value="add reload category" />
+    <option name="LAST_COMMIT_MESSAGE" value="add reload category" />
   </component>
 </project>

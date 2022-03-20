@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/recipes/core" isTestSource="false" packagePrefix="recipes\" />
+      <sourceFolder url="file://$MODULE_DIR$/template" isTestSource="false" packagePrefix="template\" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/recipes/core" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/gabordemooij/redbean" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
