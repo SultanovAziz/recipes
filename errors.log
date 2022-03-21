@@ -32,3 +32,5 @@
 =================
 [2022-03-21 02:48:08] Текст ошибки: На найден вид C:\xampp\htdocs\recipes/app/views/Ingredient/reload-unit.php | Файл: C:\xampp\htdocs\recipes\vendor\recipes\core\base\View.php | Строка: 44
 =================
+[2022-03-21 04:05:46] Текст ошибки: Контроллер app\controllers\NumberStepController не найден | Файл: C:\xampp\htdocs\recipes\vendor\recipes\core\Router.php | Строка: 46
+=================
